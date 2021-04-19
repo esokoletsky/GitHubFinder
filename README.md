@@ -24,7 +24,7 @@ Visit `http://localhost:3000` to start shopping on a local server
 
 ## Screenshot
 
-![Main](https://github.com/esokoletsky/GitHubFinder/tree/master/public/GitHubFinder.png)
+![Main](https://github.com/esokoletsky/GitHubFinder/blob/master/public/GitHubFinder.png)
 
 #### You can find me here
 
